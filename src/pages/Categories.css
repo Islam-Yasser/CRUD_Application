@@ -1,0 +1,12 @@
+.container img{
+    width: 16rem;
+    height: 18rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container p{
+    text-decoration: none;
+}

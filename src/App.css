@@ -1,0 +1,11 @@
+.sidebar{
+  height: 100vh;
+  background-color: #F8F9FA;
+}
+.sidebar li{
+  text-align: center;
+  padding: 10px 5px;
+}
+.sidebar li a{
+text-decoration: none;
+}

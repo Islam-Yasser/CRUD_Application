@@ -1,0 +1,19 @@
+.card{
+    width: 18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    background-position: center;
+    background-size: cover;
+    height: 10rem;
+    width: 12rem;
+}
+.card p{
+    text-align: center;
+}
+.card .title{
+    font-weight: 700;
+}
